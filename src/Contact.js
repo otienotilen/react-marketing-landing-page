@@ -67,7 +67,7 @@ function Contact() {
                 <button className="btn contact pointer" type="submit">
                   Submit
                 </button>
-                {done && "Thank you..."}
+                {<p className="hire__text white">done && "Thank you..."</p>}
               </form>
             </div>
           </div>
