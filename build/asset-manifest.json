@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.440df04c.chunk.css",
+    "main.js": "/static/js/main.4806b787.chunk.js",
+    "main.js.map": "/static/js/main.4806b787.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c1df3ca2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c1df3ca2.js.map",
+    "static/js/2.a4cfa3a0.chunk.js": "/static/js/2.a4cfa3a0.chunk.js",
+    "static/js/2.a4cfa3a0.chunk.js.map": "/static/js/2.a4cfa3a0.chunk.js.map",
+    "static/js/3.742bcb03.chunk.js": "/static/js/3.742bcb03.chunk.js",
+    "static/js/3.742bcb03.chunk.js.map": "/static/js/3.742bcb03.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.440df04c.chunk.css.map": "/static/css/main.440df04c.chunk.css.map",
+    "static/js/2.a4cfa3a0.chunk.js.LICENSE.txt": "/static/js/2.a4cfa3a0.chunk.js.LICENSE.txt",
+    "static/media/Capture2.0e7eb0b3.PNG": "/static/media/Capture2.0e7eb0b3.PNG",
+    "static/media/Home.css": "/static/media/abc.087c3e07.jpg",
+    "static/media/biz.e69e60a6.PNG": "/static/media/biz.e69e60a6.PNG",
+    "static/media/blog-01.67ebb920.jpg": "/static/media/blog-01.67ebb920.jpg",
+    "static/media/blog-02.6ecd55ed.jpg": "/static/media/blog-02.6ecd55ed.jpg",
+    "static/media/blog-03.1bced0df.jpg": "/static/media/blog-03.1bced0df.jpg",
+    "static/media/contentcreation.3501b347.jpg": "/static/media/contentcreation.3501b347.jpg",
+    "static/media/facebook.65e3a48e.png": "/static/media/facebook.65e3a48e.png",
+    "static/media/flexpay.ab9c6c4a.PNG": "/static/media/flexpay.ab9c6c4a.PNG",
+    "static/media/instagram.3e8c565c.webp": "/static/media/instagram.3e8c565c.webp",
+    "static/media/kingdom1.e860cd8a.PNG": "/static/media/kingdom1.e860cd8a.PNG",
+    "static/media/leadgeneration.7e165206.jpg": "/static/media/leadgeneration.7e165206.jpg",
+    "static/media/lloyd.da1d9424.PNG": "/static/media/lloyd.da1d9424.PNG",
+    "static/media/pets.c24d22ea.PNG": "/static/media/pets.c24d22ea.PNG",
+    "static/media/sancity.d5689824.PNG": "/static/media/sancity.d5689824.PNG",
+    "static/media/socialmediaadvertising.2f1c4f6a.png": "/static/media/socialmediaadvertising.2f1c4f6a.png",
+    "static/media/tiktok.8d25e041.jpg": "/static/media/tiktok.8d25e041.jpg",
+    "static/media/youtube_003.789c9b2f.jpg": "/static/media/youtube_003.789c9b2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1df3ca2.js",
+    "static/js/2.a4cfa3a0.chunk.js",
+    "static/css/main.440df04c.chunk.css",
+    "static/js/main.4806b787.chunk.js"
+  ]
+}
